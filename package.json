@@ -1,0 +1,26 @@
+{
+  "name": "comp229.018_sinasarsharpour_repo",
+  "version": "1.0.0",
+  "description": "COMP229.018 Code Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo.git"
+  },
+  "keywords": [
+    "COMP229",
+    "MEAN",
+    "Web",
+    "App",
+    "JavaScript"
+  ],
+  "author": "Sina Sarshar Pour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo/issues"
+  },
+  "homepage": "https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo#readme"
+}
