@@ -1,0 +1,3 @@
+use npm install -g nodemon => save and the server will restart with the new code
+use npx nodemon@latest server.js => if there is any error with above
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser => problem with not being able to run scripts on file
