@@ -2,11 +2,7 @@
   "name": "comp229.018_sinasarsharpour_repo",
   "version": "1.0.0",
   "description": "COMP229.018 Code Example",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo.git"
@@ -24,7 +20,16 @@
     "url": "https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo/issues"
   },
   "homepage": "https://github.com/sinapy/COMP229.018_SinaSarsharPour_repo#readme",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "connect": "^3.7.0"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   }
 }
